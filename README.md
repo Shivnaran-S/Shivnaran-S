@@ -1,6 +1,8 @@
-# Hi, I 'm Shivnaran 👋
+# Hi, I'm Shivnaran 👋
 ## 🚀 About me
 - 🎓 Pursuing Master's degree in Data Science at PSG College of Technology
+- 🎯 Passionate about applying my knowledge in Data Science to real-world problems
+- 🌱 Eager to learn new technologies and continuously update my skill set
 
 ## 📫 Connect with me 
 <div align="center">
